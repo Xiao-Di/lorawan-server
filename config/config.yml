@@ -1,0 +1,15 @@
+# Destination address of LoRa Server
+dest:
+  hostname: localhost
+  port: 12255
+
+# Source address of this emulator
+src:
+  hostname: localhost
+  port: 12299
+
+# Timeout for socket
+timeout: 10
+
+# Log level
+level: debug
